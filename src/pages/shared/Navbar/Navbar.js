@@ -26,7 +26,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Get started</a>
+                <Link className="btn btn-outline">Whatsapp: +8801700000000</Link>
             </div>
         </div>
     );
